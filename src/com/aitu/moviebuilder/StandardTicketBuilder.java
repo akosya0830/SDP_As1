@@ -1,3 +1,5 @@
+package com.aitu.moviebuilder;
+
 public class StandardTicketBuilder implements TicketBuilder {
     private String movieTitle;
     private String hallNumber;
