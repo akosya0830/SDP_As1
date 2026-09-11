@@ -1,3 +1,5 @@
+package com.aitu.moviebuilder;
+
 public class MovieTicket {
     private String movieTitle;
     private String hallNumber;
@@ -19,7 +21,7 @@ public class MovieTicket {
 
     @Override
     public String toString() {
-        return "MovieTicket [Movie: " + movieTitle +
+        return "com.aitu.moviebuilder.MovieTicket [Movie: " + movieTitle +
                 ", Hall: " + hallNumber +
                 ", Time: " + showTime +
                 ", Seat: " + seatType +

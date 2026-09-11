@@ -1,3 +1,5 @@
+package com.aitu.moviebuilder;
+
 public interface TicketBuilder {
     TicketBuilder setMovieTitle(String title);
     TicketBuilder setHallNumber(String hall);

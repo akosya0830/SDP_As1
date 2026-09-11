@@ -1,3 +1,5 @@
+package com.aitu.moviebuilder;
+
 public class TicketDirector {
 
     // Директор собирает премиум-билет по стандартному сценарию
